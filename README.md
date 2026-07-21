@@ -1,4 +1,4 @@
-# mcp-scan
+# security-space
 
 Security scanner for MCP (Model Context Protocol) servers. It combines
 **dependency manifest analysis**, **AST-based static analysis** (via
